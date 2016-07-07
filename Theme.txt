@@ -1,0 +1,7 @@
+Name: KoLiber.Theme.Sting
+Author: Tomasz Malinowski
+Website: https://github.com/Yaevh/KoLiber.Theme.Sting
+Description: Orchard CMS theme for KoLiber.org. Originally designed by Miłosz Lodowski.
+Version: 0.01
+# todo: provide tags
+# Tags: Classic, Serif
