@@ -71,6 +71,7 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="Web.config" />
     <Content Include="Assets.json" />
     <Content Include="Scripts\Web.config" />
@@ -95,9 +96,8 @@
     <Folder Include="Views\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="C:\Users\Tomasz\AppData\Local\Microsoft\VisualStudio\14.0\Extensions\gvjfcc5l.b12\OrchardTemplates\ThemeHelp.md">
-      <Link>ThemeHelp.md</Link>
-    </Content>
+    <Content Include="LICENSE" />
+    <Content Include="README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
