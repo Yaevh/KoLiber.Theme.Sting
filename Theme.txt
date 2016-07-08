@@ -6,4 +6,4 @@ Version: 0.01
 Zones: Navigation, Featured, BeforeContent, Content, AfterContent, SidebarLeft, SidebarRight, AfterMain, TripelFirst, TripelSecond, TripelThird, FooterQuadFirst, FooterQuadSecond, FooterQuadThird, Footer
 # todo: provide tags
 # Tags: Classic, Serif
-
+Dependencies: Orchard.Resources
